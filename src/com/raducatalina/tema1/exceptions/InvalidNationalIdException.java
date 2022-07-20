@@ -1,9 +1,9 @@
-package com.company.exceptions;
+package com.raducatalina.tema1.exceptions;
 
 public class InvalidNationalIdException extends Exception
 {
     public InvalidNationalIdException()
     {
-        super("Pierdut buletin, nu mai stiu de unde vin.");
+        super("Pierdut buletin.");
     }
 }

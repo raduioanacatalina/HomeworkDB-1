@@ -1,7 +1,7 @@
-package com.company.account;
+package com.raducatalina.tema1.account;
 
-import com.company.exceptions.InvalidNationalIdException;
-import com.company.exceptions.NotEnoughMoneyException;
+import com.raducatalina.tema1.exceptions.InvalidNationalIdException;
+import com.raducatalina.tema1.exceptions.NotEnoughMoneyException;
 
 import java.util.Random;
 

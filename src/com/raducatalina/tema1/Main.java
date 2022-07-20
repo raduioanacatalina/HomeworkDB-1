@@ -1,8 +1,8 @@
-package com.company;
+package com.raducatalina.tema1;
 
-import com.company.account.Account;
-import com.company.exceptions.InvalidNationalIdException;
-import com.company.exceptions.NotEnoughMoneyException;
+import com.raducatalina.tema1.account.Account;
+import com.raducatalina.tema1.exceptions.InvalidNationalIdException;
+import com.raducatalina.tema1.exceptions.NotEnoughMoneyException;
 
 public class Main
 {

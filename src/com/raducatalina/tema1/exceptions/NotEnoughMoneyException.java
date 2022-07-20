@@ -1,4 +1,4 @@
-package com.company.exceptions;
+package com.raducatalina.tema1.exceptions;
 
 public class NotEnoughMoneyException extends Exception
 {
